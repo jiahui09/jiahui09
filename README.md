@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&&section=header&text=I%20am%20Jiahui&fontSize=45&fontAlign=50&fontAlignY=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&&section=header&text=I%20am%20Jiahui&fontSize=45&fontAlign=50&fontAlignY=30&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
