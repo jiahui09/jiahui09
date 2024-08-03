@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@main
       - name: Pull in blog's posts
-        uses: jiahui09/blog-post-workflow@v1
+        uses: jiahui09/blog-post-workflow@main
         with:
           feed_list: "https://jiahui09.github.io/atom.xml"
