@@ -20,7 +20,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahui09&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-![亮色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
 <!-- https://github.com/tandpfun/skill-icons -->
