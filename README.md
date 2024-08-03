@@ -16,13 +16,17 @@
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jiahui09&theme=github-compact&&hide_border=true&area=true">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahui09&theme=transparent&hide_border=true&layout=donut&langs_count=6" />
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://github-profile-trophy.vercel.app/?username=jiahui09&title=Stars,Followers,MultiLanguage,Commits,Issues&row=2&column=2&margin-w=15&margin-h=15" alt="jiahui09" />
 </p>
-<!-- https://github.com/tandpfun/skill-icons -->
 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+
+<!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts,md,matlab,mysql&theme=light" />
 </p>
