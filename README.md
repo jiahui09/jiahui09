@@ -29,6 +29,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/jiahui09"><img src="https://img.shields.io/badge/GitHub-jiahui09-blue?logo=github" /></a>
+<a href="https://jiahui09.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-huigang39.github.io-orange" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow" />
 </p>
