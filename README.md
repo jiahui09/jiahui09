@@ -38,9 +38,10 @@
 <img src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow" />
 </p>
 <p>
-  # Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 </p>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
