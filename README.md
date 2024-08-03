@@ -19,13 +19,6 @@
   
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahui09&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-
-<!--END_SECTION:waka-->
-<br/>
-
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts,md,matlab,mysql&theme=light" />
@@ -37,6 +30,7 @@
 <a href="https://github.com/jiahui09"><img src="https://img.shields.io/badge/GitHub-jiahui09-blue?logo=github" /></a>
 <a href="https://jiahui09.github.io"><img src="https://img.shields.io/badge/博客(blog)-jiahui09.github.io-orange" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="http://img.shields.io/badge/Code%20Time-0%20secs-blue"/>
 <img src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow" />
 </p>
 
