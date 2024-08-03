@@ -22,77 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-205-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 82.8 kB Used in GitHub's Storage 
- > 
-> 🏆 73 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌆 Daytime                42 commits          ██████████░░░░░░░░░░░░░░░   41.18 % 
-🌃 Evening                42 commits          ██████████░░░░░░░░░░░░░░░   41.18 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Wednesday                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Saturday                 43 commits          ███████████░░░░░░░░░░░░░░   42.16 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/jiahui09/jiahui09/main/assets/bar_graph.png)
-
-
- Last Updated on 03/08/2024 10:49:01 UTC
 <!--END_SECTION:waka-->
 <br/>
 
