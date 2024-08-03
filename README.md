@@ -109,15 +109,7 @@ C                        1 repo              ████░░░░░░░�
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow" />
 </p>
-<p>
 
-<!-- BLOG-POST-LIST:START -->
-- [第一次光固化打印](http://example.com/2024/08/03/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%85%89%E5%9B%BA%E5%8C%96%E6%89%93%E5%8D%B0/)
-- [一次尝试](http://example.com/2024/06/24/%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95/)
-- [数据处理与特征提取](http://example.com/2024/06/24/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E4%B8%8E%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96/)
-<!-- BLOG-POST-LIST:END -->
-
-</p>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&descAlignY=40&animation=twinkling" />
