@@ -38,6 +38,7 @@
 <a href="https://jiahui09.github.io"><img src="https://img.shields.io/badge/博客(blog)-jiahui09.github.io-orange" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="http://img.shields.io/badge/Code%20Time-0%20secs-blue"/>
+<img src="https://wakatime.com/badge/user/7e08b528-17d2-40e1-b911-a64a904a03f4.svg"/>
 <img src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow" />
 </p>
 
