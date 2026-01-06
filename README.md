@@ -5,7 +5,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yuji+Boku&size=29&pause=1000&color=2CF7DD&random=true&width=435&lines=%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%85%B6%E4%BF%AE%E8%BF%9C%E5%85%AE%EF%BC%8C%E5%90%BE%E5%B0%86%E4%B8%8A%E4%B8%8B%E8%80%8C%E6%B1%82%E7%B4%A2)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuji+Boku&size=29&pause=1000&color=2CF7DD&random=true&width=435&lines=%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%85%B6%E4%BF%AE%E8%BF%9C%E5%85%AE%EF%BC%8C%E5%90%BE%E5%B0%86%E4%B8%8A%E4%B8%8B%E8%80%8C%E6%B1%82%E7%B4%A2" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
