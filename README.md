@@ -1,45 +1,78 @@
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&&section=header&text=I%20am%20Jiahui&fontSize=45&fontAlign=50&fontAlignY=40&animation=twinkling" />
-</p>
-
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Liu+Jian+Mao+Cao&size=50&pause=1000&color=A7223C&center=true&vCenter=true&repeat=false&width=870&height=100&lines=%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%85%B6%E4%BF%AE%E8%BF%9C%E5%85%AE%EF%BC%8C%E5%90%BE%E5%B0%86%E4%B8%8A%E4%B8%8B%E8%80%8C%E6%B1%82%E7%B4%A2" alt="Typing SVG" /></a>
-</p>
+<!-- ==================== Header ==================== -->
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=jiahui09&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=jiahui09&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img align="center" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jiahui09&theme=github-compact&hide_border=true&area=true" />
-<br/>
-<!-- 只保留 Top Langs，居中展示 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahui09&theme=transparent&hide_border=true&layout=donut&langs_count=6" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=I%20am%20Jiahui&fontSize=45&fontAlign=50&fontAlignY=40&animation=twinkling"
+    alt="I am Jiahui"
+  />
 </p>
 
-&emsp;
-&emsp;
-
-<!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts,md,matlab,mysql&theme=light" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Liu+Jian+Mao+Cao&size=50&pause=1000&color=A7223C&center=true&vCenter=true&repeat=false&width=870&height=100&lines=%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%85%B6%E4%BF%AE%E8%BF%9C%E5%85%AE%EF%BC%8C%E5%90%BE%E5%B0%86%E4%B8%8A%E4%B8%8B%E8%80%8C%E6%B1%82%E7%B4%A2"
+      alt="路漫漫其修远兮，吾将上下而求索"
+    />
+  </a>
 </p>
 
-<!-- https://github.com/badges/shields -->
+<br />
+
+<!-- ==================== GitHub Stats ==================== -->
+
 <p align="center">
-<a href="https://jiahui09-github-io.pages.dev/"><img src="https://img.shields.io/badge/GitHub-jiahui09-blue?logo=github" /></a>
-<a href="https://jiahui09-github-io.pages.dev/"><img src="https://img.shields.io/badge/博客(blog)-jiahui09.github.io-orange" /></a>
-<img src="https://wakatime.com/badge/user/7e08b528-17d2-40e1-b911-a64a904a03f4.svg"/>
-<img src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow" />
+  <img
+    src="./profile/stats.svg"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&descAlignY=40&animation=twinkling" />
-<br/>
-<img align="center" src="https://raw.githubusercontent.com/jiahui09/jiahui09/output/github-contribution-grid-snake.svg" />
-</p> -->
+<br />
+
+<!-- ==================== Skills ==================== -->
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts,md,matlab,mysql&theme=light"
+    alt="Skills"
+  />
+</p>
+
+<br />
+
+<!-- ==================== Links ==================== -->
+<p align="center">
+  <a href="https://github.com/jiahui09">
+    <img
+      src="https://img.shields.io/badge/GitHub-jiahui09-181717?logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://jiahui09-github-io.pages.dev/">
+    <img
+      src="https://img.shields.io/badge/Blog-jiahui09.github.io-orange"
+      alt="Blog"
+    />
+  </a>
+<img
+ src="https://wakatime.com/badge/user/7e08b528-17d2-40e1-b911-a64a904a03f4.svg"
+ alt="WakaTime"
+/>
+<img
+ src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow"
+ alt="Profile Views"
+/>
+</p>
+<br />
+
+<!-- ==================== Footer ==================== -->
+
+<p align="center">
+  <sub>Keep learning. Keep building. Keep exploring.</sub>
+</p>
