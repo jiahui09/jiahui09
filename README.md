@@ -38,8 +38,8 @@
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&descAlignY=40&animation=twinkling" />
 <br/>
 <img align="center" src="https://raw.githubusercontent.com/jiahui09/jiahui09/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
