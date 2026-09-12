@@ -48,18 +48,18 @@
 
 <!-- ==================== Links ==================== -->
 <p align="center">
-  <a href="https://github.com/jiahui09">
-    <img
-      src="https://img.shields.io/badge/GitHub-jiahui09-181717?logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  <a href="https://jiahui09-github-io.pages.dev/">
-    <img
-      src="https://img.shields.io/badge/Blog-jiahui09.github.io-orange"
-      alt="Blog"
-    />
-  </a>
+<a href="https://github.com/jiahui09">
+<img
+  src="https://img.shields.io/badge/GitHub-jiahui09-181717?logo=github&logoColor=white"
+  alt="GitHub"
+/>
+</a>
+<a href="https://jiahui09-github-io.pages.dev/">
+<img
+  src="https://img.shields.io/badge/Blog-jiahui09.github.io-orange"
+  alt="Blog"
+/>
+</a>
 <img
  src="https://wakatime.com/badge/user/7e08b528-17d2-40e1-b911-a64a904a03f4.svg"
  alt="WakaTime"
