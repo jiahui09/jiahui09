@@ -1,11 +1,11 @@
 <!-- ==================== Header ==================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=I%20am%20Jiahui&fontSize=45&fontAlign=50&fontAlignY=40&animation=twinkling"
     alt="I am Jiahui"
   />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
