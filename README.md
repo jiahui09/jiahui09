@@ -70,5 +70,6 @@
 <!-- ==================== Footer ==================== -->
 
 <p align="center">
-  <sub>To learn, to build, to explore, and not to yield.</sub>
+  <br/>
+  <b><i>To learn, to build, to explore, and not to yield.</i></b>
 </p>
