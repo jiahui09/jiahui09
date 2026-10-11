@@ -60,14 +60,10 @@
   alt="Blog"
 />
 </a>
-<img
+<!-- <img
  src="https://wakatime.com/badge/user/7e08b528-17d2-40e1-b911-a64a904a03f4.svg"
  alt="WakaTime"
-/>
-<img
- src="https://komarev.com/ghpvc/?username=jiahui09&abbreviated=true&color=yellow"
- alt="Profile Views"
-/>
+/> -->
 </p>
 <br />
 
