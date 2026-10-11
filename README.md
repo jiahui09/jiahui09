@@ -70,5 +70,5 @@
 <!-- ==================== Footer ==================== -->
 
 <p align="center">
-  <sub>Keep learning. Keep building. Keep exploring.</sub>
+  <sub>To learn, to build, to explore, and not to yield.</sub>
 </p>
