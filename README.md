@@ -71,5 +71,5 @@
 
 <p align="center">
   <br/>
-  <b><i>To learn, to build, to explore, and not to yield.</i></b>
+  <i>To learn, to build, to explore, and not to yield.</i>
 </p>
